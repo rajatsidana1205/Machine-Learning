@@ -144,24 +144,24 @@ Analyse social media posts to understand public sentiment, emotional tone, and e
 
 **Key Questions Answered:**
 
-How is sentiment and emotional tone distributed across social media posts?
-How does sentiment vary across different platforms?
-Which topics and hashtags are associated with negative sentiment?
-What is the relationship between sentiment and user engagement?
-Which emotions drive the highest engagement?
-Can toxicity and sentiment help identify potential PR risks?
-How does sarcasm influence sentiment interpretation?
-Can machine learning be used to predict sentiment and engagement?
+-How is sentiment and emotional tone distributed across social media posts?
+-How does sentiment vary across different platforms?
+-Which topics and hashtags are associated with negative sentiment?
+-What is the relationship between sentiment and user engagement?
+-Which emotions drive the highest engagement?
+-Can toxicity and sentiment help identify potential PR risks?
+-How does sarcasm influence sentiment interpretation?
+-Can machine learning be used to predict sentiment and engagement?
 
 **Techniques Used:**
 
-Natural Language Processing (NLP)
-Text preprocessing (tokenization, stopword removal, lemmatization)
-Exploratory data analysis
-Sentiment and emotion analysis
-Sarcasm and toxicity analysis
-Topic and hashtag analysis
-Machine learning models (Logistic Regression, Naive Bayes, SVM, Random Forest)
+-Natural Language Processing (NLP)
+-Text preprocessing (tokenization, stopword removal, lemmatization)
+-Exploratory data analysis
+-Sentiment and emotion analysis
+-Sarcasm and toxicity analysis
+-Topic and hashtag analysis
+-Machine learning models (Logistic Regression, Naive Bayes, SVM, Random Forest)
 
 📄 File: `Socialmediaanalysis.ipynb`
 
